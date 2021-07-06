@@ -8,14 +8,11 @@ h1{
 .skip{
     color: rgba(240, 66, 13, 0.774);
 }
-section{
+.flex{
     display: flex;
-   
-   
-}
+   }
 .half-width{
     padding: 4%;
-
 }
 .half-width img{
     width: 180%;
@@ -38,13 +35,12 @@ padding-right: 20px;
     width: 100%;
 }
 .about-left{
-    padding-left: 20px;
+    padding-left:15%;
 }
 .reci{
     text-align: center;
     padding: 5px 150px 5px 140px;
-    
-}
+    }
 h2{
     font-weight: bold;
 }
@@ -54,14 +50,9 @@ h2{
     padding: 20px;
     box-shadow: 10px 10px 40px grey;
     margin-left: 2%;
-    
-
-}
+    }
 img{
     width: 100%;
-}
-.flex{
-    display: flex;
 }
 .image{
     border-radius: 20px;
