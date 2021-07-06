@@ -5,7 +5,7 @@ body{
 h1{
     font-weight: 700;
 }
-.skip{
+.font-color{
     color: rgba(240, 66, 13, 0.774);
 }
 .flex{
@@ -56,8 +56,27 @@ img{
 }
 .image{
     border-radius: 20px;
-   
-}
+   }
+   .social{
+    text-align: center;
+    padding: 20px;
+     }
+     .left{
+         text-align: left;
+         padding: 20px;
+     }
+     .right{
+         text-align: right;
+         padding: 20px;
+     }
+     .border{width: 70%;
+        border-radius: 20px;
+        padding: 10px 40px 10px 40px;
+        box-shadow: 10px 10px 40px grey;
+        margin-left: 2%;
+
+
+     }
 .footer{
     text-align: center;
     font: size 400px;
