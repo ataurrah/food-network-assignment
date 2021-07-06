@@ -1,8 +1,7 @@
 
 body{
     font-family: 'Courier New', Courier, monospace;
-    
-}
+    }
 h1{
     font-weight: 700;
 }
@@ -11,15 +10,19 @@ h1{
 }
 section{
     display: flex;
-    width: 95%;
+   
    
 }
 .half-width{
     padding: 4%;
+
 }
 .half-width img{
-    width: 150%;
+    width: 180%;
 padding-right: 20px;
+}
+.pic-right{
+    padding-right: 20%;
 }
 .link-button{
     text-decoration: none;
@@ -32,10 +35,10 @@ padding-right: 20px;
 .banner{
     background-image: url(8.jpg);
     background-repeat: no-repeat;
-}
-.banner img{
     width: 100%;
-    
+}
+.about-left{
+    padding-left: 20px;
 }
 .reci{
     text-align: center;
@@ -46,16 +49,16 @@ h2{
     font-weight: bold;
 }
 .recipi{
-    width: 30%;
-    margin: left 5%; ;
-    margin-right: 5%%;
-    border: 15px solid white;
-   border-radius: 20px;
-  border: width 20px;
+    width: 33.33%;
+    border-radius: 20px;
     padding: 20px;
-    background-color: rgb(241, 238, 232);
-    box-shadow: 20px 20px 40px white;
-    border-img
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 2%;
+    
+
+}
+img{
+    width: 100%;
 }
 .flex{
     display: flex;
