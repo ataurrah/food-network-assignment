@@ -1,6 +1,7 @@
+
 body{
     font-family: 'Courier New', Courier, monospace;
-    padding: 20px;
+    
 }
 h1{
     font-weight: 700;
@@ -10,11 +11,15 @@ h1{
 }
 section{
     display: flex;
-    width: 80%;
+    width: 95%;
+   
+}
+.half-width{
+    padding: 4%;
 }
 .half-width img{
-    width: 100%;
-    padding: 15%;
+    width: 150%;
+padding-right: 20px;
 }
 .link-button{
     text-decoration: none;
@@ -29,8 +34,8 @@ section{
     background-repeat: no-repeat;
 }
 .banner img{
-    width: 60%;
-    display: flex;
+    width: 100%;
+    
 }
 .reci{
     text-align: center;
@@ -39,4 +44,31 @@ section{
 }
 h2{
     font-weight: bold;
+}
+.recipi{
+    width: 30%;
+    margin: left 5%; ;
+    margin-right: 5%%;
+    border: 15px solid white;
+   border-radius: 20px;
+  border: width 20px;
+    padding: 20px;
+    background-color: rgb(241, 238, 232);
+    box-shadow: 20px 20px 40px white;
+    border-img
+}
+.flex{
+    display: flex;
+}
+.image{
+    border-radius: 20px;
+   
+}
+.footer{
+    text-align: center;
+    font: size 400px;
+    background-color: rgb(42, 46, 63);
+}
+h5{
+    color: snow;
 }
