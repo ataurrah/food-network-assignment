@@ -31,5 +31,12 @@ section{
 .banner img{
     width: 60%;
     display: flex;
-
+}
+.reci{
+    text-align: center;
+    padding: 5px 150px 5px 140px;
+    
+}
+h2{
+    font-weight: bold;
 }
