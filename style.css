@@ -1,0 +1,32 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+h1{
+    font-weight: 700;
+}
+.skip{
+    color: rgba(240, 66, 13, 0.774);
+}
+section{
+    display: flex;
+    width: 80%;
+}
+.half-width img{
+    width: 80%;
+    padding: 15%;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(243, 42, 7),rgb(231, 214, 233));
+    color: rgb(5, 22, 179);
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.fr{
+    background-image: url(frame.png);
+    display
+}
+}
+
