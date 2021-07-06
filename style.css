@@ -13,7 +13,7 @@ section{
     width: 80%;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
     padding: 15%;
 }
 .link-button{
@@ -24,9 +24,12 @@ section{
     padding: 10px 30px;
     border-radius: 20px;
 }
-.fr{
-    background-image: url(frame.png);
-    display
+.banner{
+    background-image: url(8.jpg);
+    background-repeat: no-repeat;
 }
-}
+.banner img{
+    width: 60%;
+    display: flex;
 
+}
