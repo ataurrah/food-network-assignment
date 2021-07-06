@@ -57,31 +57,28 @@ img{
 .image{
     border-radius: 20px;
    }
-   .social{
-    text-align: center;
-    padding: 20px;
-     }
-     .left{
-         text-align: left;
-         padding: 20px;
-     }
-     .right{
-         text-align: right;
-         padding: 20px;
-     }
-     .border{width: 70%;
+
+.optional{
+    width: 100%;
         border-radius: 20px;
-        padding: 10px 40px 10px 40px;
-        box-shadow: 10px 10px 40px grey;
-        margin-left: 2%;
-
-
+        box-shadow: 10px 10px 40px rgb(159, 209, 136);
+        margin: 10px;
+       text-align: center;
+       margin-top: 50px;
+}
+     .size{
+         width: 40px;
      }
+     .border{
+        display: flex;
+    }
 .footer{
     text-align: center;
-    font: size 400px;
     background-color: rgb(42, 46, 63);
+    margin-top: 60px;
+    height: 150px;
+    padding-top: 10px;
 }
-h5{
+h3{
     color: snow;
 }
